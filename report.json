@@ -1,0 +1,150 @@
+{
+    "total_articles": 10,
+    "most_common_keywords": [
+        [
+            "milei",
+            4
+        ],
+        [
+            "javier",
+            3
+        ],
+        [
+            "nacion",
+            2
+        ],
+        [
+            "orienta",
+            1
+        ],
+        [
+            "gasto",
+            1
+        ],
+        [
+            "clave",
+            1
+        ],
+        [
+            "electoral",
+            1
+        ],
+        [
+            "aumenta",
+            1
+        ],
+        [
+            "partidas",
+            1
+        ],
+        [
+            "sensibles",
+            1
+        ]
+    ],
+    "most_common_categories": {
+        "politica": 6,
+        "seguridad": 3,
+        "otros": 1
+    },
+    "source_frequency": {
+        "Google News (Argentina)": 10
+    },
+    "category_distribution": {
+        "otros": 1,
+        "politica": 6,
+        "seguridad": 3
+    },
+    "articles_info": [
+        {
+            "title": "Milei orienta el gasto en clave electoral y aumenta partidas sensibles en el presupuesto 2025 - LA NACION",
+            "author": "LA NACION",
+            "publishedAt": "2024-09-22T21:17:00+00:00",
+            "source": "Google News (Argentina)",
+            "content": null,
+            "category": "otros",
+            "title_sentiment_analysis": "neutral"
+        },
+        {
+            "title": "Campana: un niño de 12 años subió a festejar un gol en la terraza de su casa y murió electrocutado - LA NACION",
+            "author": "LA NACION",
+            "publishedAt": "2024-09-22T20:21:00+00:00",
+            "source": "Google News (Argentina)",
+            "content": null,
+            "category": "politica",
+            "title_sentiment_analysis": "neutral"
+        },
+        {
+            "title": "Avanza la investigación del choque del hijo de Leo Mattioli: atropelló y mató a una mujer en Santo Tomé - La Capital",
+            "author": "La Capital",
+            "publishedAt": "2024-09-22T18:23:46+00:00",
+            "source": "Google News (Argentina)",
+            "content": null,
+            "category": "seguridad",
+            "title_sentiment_analysis": "neutral"
+        },
+        {
+            "title": "Javier Milei y sus medidas, EN VIVO: el Gobierno confirmó que planea hacer cortes de luz programados el próximo verano - Clarín",
+            "author": "Clarín",
+            "publishedAt": "2024-09-22T18:08:08+00:00",
+            "source": "Google News (Argentina)",
+            "content": null,
+            "category": "seguridad",
+            "title_sentiment_analysis": "neutral"
+        },
+        {
+            "title": "Otro enfrentamiento a los tiros con la Policía y la fuga de una Penitenciaría: el prontuario del acusado de matar a un oficial - El Chorrillero",
+            "author": "El Chorrillero",
+            "publishedAt": "2024-09-22T17:35:41+00:00",
+            "source": "Google News (Argentina)",
+            "content": null,
+            "category": "seguridad",
+            "title_sentiment_analysis": "neutral"
+        },
+        {
+            "title": "Incendios en Córdoba: controlaron el fuego en Capilla del Monte, se reavivaron otros dos focos y hay un segundo detenido - infobae",
+            "author": "infobae",
+            "publishedAt": "2024-09-22T14:01:25+00:00",
+            "source": "Google News (Argentina)",
+            "content": null,
+            "category": "politica",
+            "title_sentiment_analysis": "neutral"
+        },
+        {
+            "title": "Hezbolá lanzó 150 proyectiles contra Israel | Temen el estallido de una guerra abierta en la región - Página/12",
+            "author": "Página/12",
+            "publishedAt": "2024-09-22T13:28:16+00:00",
+            "source": "Google News (Argentina)",
+            "content": null,
+            "category": "politica",
+            "title_sentiment_analysis": "neutral"
+        },
+        {
+            "title": "Javier Milei y la boleta única de papel: una bandera y la fragmentación del caos - Letra P",
+            "author": "Letra P",
+            "publishedAt": "2024-09-22T13:05:00+00:00",
+            "source": "Google News (Argentina)",
+            "content": null,
+            "category": "politica",
+            "title_sentiment_analysis": "neutral"
+        },
+        {
+            "title": "Cerró el PASO CRISTO REDENTOR y alcanzaron a pasar muchos chilenos - MendozaPost",
+            "author": "MendozaPost",
+            "publishedAt": "2024-09-22T12:55:00+00:00",
+            "source": "Google News (Argentina)",
+            "content": null,
+            "category": "politica",
+            "title_sentiment_analysis": "neutral"
+        },
+        {
+            "title": "Llegó Javier Milei a EEUU y se prepara para hablar en la ONU - ámbito.com",
+            "author": "ámbito.com",
+            "publishedAt": "2024-09-22T01:01:00+00:00",
+            "source": "Google News (Argentina)",
+            "content": null,
+            "category": "politica",
+            "title_sentiment_analysis": "neutral"
+        }
+    ]
+}
