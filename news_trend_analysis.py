@@ -16,7 +16,7 @@ from nltk.classify import NaiveBayesClassifier
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 load_dotenv()
-nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 nltk.download('vader_lexicon')
 
